@@ -1,0 +1,3 @@
+The train dataset had about 2700 images.
+The val dataset has about 50 images.
+The test dataset has about 50 images.
